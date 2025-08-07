@@ -1,2 +1,2 @@
 # CRT
-All descriptive  codes donne in Training
+All descriptive  codes done in Java Training
